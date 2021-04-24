@@ -1,4 +1,4 @@
-# my_app
+# AR_Deep_AI app
 
 A new Flutter project.
 
